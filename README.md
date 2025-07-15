@@ -29,16 +29,7 @@ This project simulates an air defense system using a radar-like mechanism. Built
 This project was published in the **International Journal of Information Technology and Computer Engineering** for its innovative approach to simulating radar-based defense systems using IoT components.
 
 ## 📸 Demo
-_Add a GIF or image here if available._
-
-## 📂 Folder Structure
-```
-├── Arduino_Code/
-│   └── radar_defense.ino
-├── Processing_Code/
-│   └── radar_visual.pde
-├── README.md
-```
+_<img width="1468" height="915" alt="Screenshot 2025-05-16 153256" src="https://github.com/user-attachments/assets/3b827ba8-e195-4dc2-9c97-3baef580778b" />
 
 ## 📌 Getting Started
 1. Connect HC-SR04 to Arduino with servo motor.  
